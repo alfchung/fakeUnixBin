@@ -1,0 +1,1 @@
+cl cat.cpp -o ../bin/cat
