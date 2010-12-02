@@ -1,0 +1,12 @@
+***************************************************************************
+My practice to rewrite some UNIX shell tools
+with these tools, one can use UNIX commands in a Window command line
+environment. For example, ls
+Author: Alfred Z. Zhong, Department of Computer Science, UNC Chapel Hill
+***************************************************************************
+
+To build the binaries,
+$./build in UNIX
+>buildvs in Windows
+
+cat - to display the content of a text file, src:cat.cpp usage: $cat filename
